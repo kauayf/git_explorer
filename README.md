@@ -17,8 +17,8 @@
 
 ##  ✅ Features
 
-- [x] Busca de Owner/Repository
-- [x] List do Repositórios.
+- [x] Buscando owner/repository
+- [x] Listando repositorio.
 
 ## ✅ Demonstração da aplicação
 
