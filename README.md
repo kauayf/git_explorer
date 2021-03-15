@@ -63,9 +63,9 @@ $ cd
 
 ### :memo: Licença
 
-Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
+Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE]() para saber mais detalhes.
 
 <p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com 💙 by <strong>  🌠 Kauay Felipe 🌠  </strong> </p>
 
 
-[![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/jvictorfarias/gobarber/LICENSE.md)
+[![The MIT License]()
