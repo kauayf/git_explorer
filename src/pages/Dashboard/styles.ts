@@ -35,11 +35,12 @@ export const Form = styled.form<FormsProps>`
       border-color: #c53030;
     `}
 
-    & ::placeholder {
-      color: #a8a8b3;
+  }
+
+  & ::placeholder {
+      color: #e1e1e1;
 
     }
-  }
 
   button {
     width: 210px;

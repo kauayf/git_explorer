@@ -7,7 +7,7 @@ import {
   Form,
   Repository,
   Error,
-} from './style';
+} from './styles';
 import api from '../../services/api';
 import logoImg from '../../assets/logo.svg';
 
