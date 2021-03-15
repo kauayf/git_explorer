@@ -23,7 +23,7 @@
 ## ✅ Demonstração da aplicação
 
 <h1 align="center">
-  <img src=DEMO DA APLICACAO />
+  <img src="src/assets/git_explorer.gif"/>
 </h1>
 
 
