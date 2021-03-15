@@ -33,9 +33,13 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React](https://pt-br.reactjs.org/)
-- [Styled Components](https://styled-components.com/)
-- [React-Router-Dom](https://reactrouter.com/web/guides/quick-start)
+- [TypeScript ⚡](https://www.typescriptlang.org/)
+- [ReactJS ⚡](https://pt-br.reactjs.org/)
+- [Styled Components ⚡](https://styled-components.com/)
+- [React-Router-Dom ⚡](https://reactrouter.com/web/guides/quick-start)
+- [Feather-Icons ⚡](https://feathericons.com/)
+- [Polished ⚡](https://polished.js.org/)
+- [Axios ⚡](https://www.npmjs.com/package/axios)
 
 
 <Div style{alingnItems: 'center'}>
