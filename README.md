@@ -51,18 +51,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 #### Clonando o projeto
-```sh
-$ git clone https://github.com/kauayf/git_explorer.git
-$ cd git_explorer
-```
-#### Iniciando a API
-```sh
-$ cd
 
-# Rodando as migrations para o banco de dados e iniciando o projeto
- 1° - $ yarn - "Instalando dependencias do projeto"
- 3° - $ yarn start - "Iniciando Projeto"
-```
+```$ git clone https://github.com/kauayf/git_explorer.git```
+```$ cd git_explorer```
+
+
+#### Iniciando Projeto
+ 1° - ```$ yarn``` - "Instalando dependencias do projeto"
+ 3° - ```$ yarn start ```- "Iniciando Projeto"
+
 
 ### :memo: Licença
 
