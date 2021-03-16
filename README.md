@@ -53,6 +53,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### Clonando o projeto
 
 ```$ git clone https://github.com/kauayf/git_explorer.git```
+
 ```$ cd git_explorer```
 
 
