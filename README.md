@@ -1,24 +1,27 @@
 
-# 🚀🔥 GITHUB_EXPLORER 🔥🚀
+# 🔥 GITHUB_EXPLORER 🔥
 
 
  ## ✅ Explore Repositórios no GitHub
 
-   🚀 Aplicação para explorar repositórios no GitHub 🚀
+ O Github Explorer é uma aplicação que utiliza a API pública do Github,
+ listando informações dos repositórios sendo elas: 
+ Nome Completo, Descrição, Estrelas, Issues, Forks, Login, Avatar_URL
 
- ## ✅  O que é o github_explorer?
-
- O Github Explorer é uma aplicação que utiliza a api publica do Github,
- listando informações dos repositórios
-
-
+ 
 ## ✅ Status do Projeto
 
 
 ##  ✅ Features
 
+- [x] Acesso API Publica GitHub
 - [x] Buscando owner/repository
 - [x] Listando repositorio.
+- [x] Salvar Busca em Local Storage
+- [x] Tela de informações dos repositórios e issues
+- [x] Acesso a URL das Issues
+- [x] Erro ao buscar repositório inválido
+- [x] Erro ao buscar repositório campo vazio  
 
 ## ✅ Demonstração da aplicação
 
