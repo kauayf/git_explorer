@@ -58,7 +58,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### Iniciando Projeto
  1° - ```$ yarn``` - "Instalando dependencias do projeto"
- 3° - ```$ yarn start ```- "Iniciando Projeto"
+ 
+ 2° - ```$ yarn start ```- "Iniciando Projeto"
 
 
 ### :memo: Licença
